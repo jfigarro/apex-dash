@@ -25,7 +25,9 @@ const Navigation = ({ user }) => {
                         <div className="flex-shrink-0 flex items-center">
                             <Link href="/dashboard">
                                 <a>
-                                    <ApplicationLogo className="block h-10 w-auto fill-current text-gray-600" />
+                                    <img src="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-dark-logo.svg" className="h-12" />
+
+                                    {/*<ApplicationLogo className="block h-10 w-auto fill-current text-gray-600" />*/}
                                 </a>
                             </Link>
                         </div>

@@ -33,7 +33,8 @@ const Register = () => {
                 logo={
                     <Link href="/">
                         <a>
-                            <ApplicationLogo className="w-20 h-20 fill-current text-gray-500" />
+                            <img src="https://media.contentapi.ea.com/content/dam/apex-legends/common/logos/apex-dark-logo.svg" className="h-36" />
+                            {/*<ApplicationLogo className="w-20 h-20 fill-current text-gray-500" />*/}
                         </a>
                     </Link>
                 }>
